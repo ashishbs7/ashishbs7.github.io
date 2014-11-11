@@ -22,5 +22,7 @@ p,div {
 		font-weight: 700;
 		line-height: 23px;	
 		margin: 5px 0 0px 0;
-		color: black;	
+		color: #ffffff;
+        position: fixed;
+        bottom: 0;	
 		}
