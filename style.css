@@ -1,7 +1,8 @@
 body {
 		margin: 0;
-		padding: 100;
+		padding: 0;
 		background-image: url("http://kflyfm.com/upload/2013%20best%20of%20covers/tesseractalteredstate1920x590579274.jpg");
+		background-size: cover;
 		background-color: #383A3B;
 		text-align: center;
 		}
@@ -12,5 +13,7 @@ h1 {
 		line-height: 46px;
 		font-size: 46px;
 		margin: 20px 0 23px 0;		
+		top: 50%;
+    	width: 100%;
 		}
 
