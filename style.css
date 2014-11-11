@@ -16,4 +16,11 @@ h1 {
 		top: 50%;
     	width: 100%;
 		}
-
+p,div {
+		font-family: 'Josefin Sans', sans-serif;
+		font-size: 19px;
+		font-weight: 700;
+		line-height: 23px;	
+		margin: 5px 0 0px 0;
+		color: black;	
+		}
